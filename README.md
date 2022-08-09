@@ -1,0 +1,1 @@
+This is streamlit app to showcase a course recommendation system using different machine learning techniques
